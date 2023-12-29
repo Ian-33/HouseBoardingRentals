@@ -1,0 +1,81 @@
+body {
+    margin: 0;
+    background-color: #E9F1FA;
+}
+
+header {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: rgb(20, 20, 83);
+    color: #fff;
+    text-align: center;
+    padding: 1em 0;
+}
+
+.Text1 {
+    color: rgb(20, 20, 83);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-top: 10px;
+}
+
+section {
+    max-width: 810px;
+    margin: 20px auto;
+    margin-top: 50px;
+    padding-top: 10px;
+    padding-bottom: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+    background-color: white;
+    box-shadow: 0 0 28px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+    text-align: center;
+}
+
+.container1 {
+    gap: 5px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin-top: 20px;
+}
+
+.container2 {
+    gap: 5px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin-top: 5px;
+}
+
+.Section1 {
+    max-width: 500px;
+    margin: 20px auto;
+    margin-top: 50px;
+    padding-top: 10px;
+    padding-bottom: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+    background-color: white;
+    box-shadow: 0 0 28px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+    text-align: left;
+}
+
+.Rules {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+ol {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+p {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+footer {
+    background-color: rgb(20, 20, 83);
+    color: #fff;
+    text-align: center;
+    padding: 1em 0;
+}

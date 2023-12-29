@@ -1,0 +1,147 @@
+body {
+    margin: 0;
+    background-color: #E9F1FA;
+}
+
+header {
+background-color: rgb(20, 20, 83);
+color: #fff;
+text-align: center;
+padding: 1em 0;
+}
+
+.Header-text {
+color: white;
+font-family: 'Arial', sans-serif;
+
+}
+
+  img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: -20px;
+    margin-bottom: -20px;
+    width: 50%; 
+    max-width: 500px;  
+    width: 100%;
+    height: 300px;
+ }
+ 
+  section {
+    max-width: 350px;
+    margin: 20px auto;
+    padding-top: 0;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 0;
+    background-color: white;
+    box-shadow: 0 0 28px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+    text-align: center;
+}
+
+h3 {
+  font-family: Arial, Helvetica, sans-serif;
+  color: white;
+  padding-left: 5px;
+  text-align: left;
+}
+
+h2 {
+  color: white;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+p {
+  color: white;
+  padding-left: 5px;
+  text-align: left;
+  margin-top: 0;
+}
+
+li {
+  color: white;
+  padding-left: 5px;
+  text-align: left;
+  margin-top: 0;
+}
+
+.Text1 {
+  margin-top: 0;
+  padding-left: 5px;
+  margin-bottom: 0;
+  
+}
+
+.Text2 {
+  padding-left: 5px;
+  margin-bottom: 0;
+}
+
+.Text3 {
+  padding-left: 5px;
+  margin-bottom: 0;
+}
+
+.Text4{
+  color: white;
+  padding-left: 5px;
+  padding-top: 7px;
+  margin-top: 3px;
+  margin-bottom: 0;
+}
+
+.Text5 {
+  color: white;
+  margin-top: 0;
+  margin-bottom: -5px;
+}
+
+.Text6 {
+  margin-bottom: 0;
+}
+
+.Text7 {
+  margin-top: 0px;
+  margin-bottom: 2px;
+}
+
+.bed {
+  margin-bottom: 0;
+}
+
+.image1 {
+  margin: 0;
+}
+
+.Details {
+  border-bottom-left-radius: 8px;
+  border-bottom-right-radius: 8px;
+  margin-top: 0;
+  background-color: rgb(20, 20, 83);
+  box-shadow: 0 0 40px rgba(0, 0, 0, 0.1);
+}
+
+.Details-header {
+  border-top-left-radius: 8px;
+  border-top-right-radius: 8px;
+  margin-top: 0;
+  background-color: rgb(20, 20, 83);
+  box-shadow: 0 0 40px rgba(0, 0, 0, 0.1);
+}
+
+button {
+  background-color: #4caf50; 
+  color: white; 
+  padding: 10px 15px; 
+  border: none; 
+  border-radius: 5px; 
+  cursor: pointer;
+  font-size: 16px; 
+}
+
+button:hover {
+  background-color: #36843a; 
+}
+
